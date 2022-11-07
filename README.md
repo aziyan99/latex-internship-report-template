@@ -16,3 +16,9 @@ The main entry is `report.tex` file in root directory. There is 3 main directory
 ## Acknowledge
 
 Please note, this template is not directly affiliated with Raja Ali Haji Maritime University, this template was created purely with the aim of making it easier for creators to make reports.
+
+## Usefull Links
+
+1. https://www.bibtex.com/e/entry-types/
+2. https://www.bibtex.com/s/bibliography-style-misc-apa/
+3. https://www.tablesgenerator.com/
