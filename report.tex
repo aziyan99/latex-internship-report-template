@@ -1,13 +1,32 @@
-\documentclass[a4paper,12pt]{report}
- 
-\usepackage{utils/umrahinternreport}
+%
+% Internship Report Template Universitas Maritim Raja Ali Haji
+%
+% @author  Raja Azian
+% @version 1.0.0
+%
 
+\documentclass[a4paper,12pt]{report}
+
+% Load custom LaTex configurations
+\usepackage{utils/umrahinternreport}
+%
+
+% Report strating
 \begin{document}
+%
+% Redefine margin 
+% for paper
+%
 \newgeometry{top=4cm,bottom=3cm,left=4cm,right=3cm}
 
+% Load cover
 \include{configs/cover}
 \newpage
 
+%
+% Load frontmatter 
+% page for report
+%
 \include{src/00-frontMatter/00universityApproval}
 \include{src/00-frontMatter/01companyApproval}
 \include{src/00-frontMatter/02foreword}
@@ -15,6 +34,10 @@
 \include{src/00-frontMatter/04tof}
 \include{src/00-frontMatter/05tot}
 
+%
+% Load body (actuall) 
+% page for report
+%
 \include{src/01-body/chap1}
 \include{src/01-body/chap2}
 \include{src/01-body/chap3}
@@ -22,8 +45,16 @@
 \include{src/01-body/chap5}
 \include{src/01-body/chap6}
 
+%
+% Load backmatter
+% page for report
+%
 \include{src/99-backMatter/00bibliography}
 
+%
+% Load Attachment
+% page for report
+%
 \include{configs/markAttachments}
 \include{src/99-backMatter/01attachment}
 
