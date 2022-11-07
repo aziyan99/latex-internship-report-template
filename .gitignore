@@ -14,7 +14,7 @@
 **/*.fdb_latexmk
 **/*.fls
 **/*.DS_Store
-main.pdf
+report.pdf
 .DS_Store
 .vscode
 .idea
