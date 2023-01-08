@@ -4,7 +4,7 @@ _Revision History_
 | Nov 07, 2022 | V1.0.0 |
 
 ## Internship Report Template
-[![Open as template in Overleaf](https://img.shields.io/badge/Overleaf-Open%20as%20template-green?style=flat-square)](https://www.overleaf.com/read/hsxmmhsncbxb)
+[![Open as template in Overleaf](https://img.shields.io/badge/Overleaf-Open%20as%20template-green?style=flat-square)](https://www.overleaf.com/project/new/template/27286?id=812390113&latexEngine=pdflatex&mainFile=report.tex&templateName=Internship+Report+Template&texImage=texlive-full%3A2022.1)
 
 
 ### Intro
